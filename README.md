@@ -3,7 +3,7 @@ An interactive Blinkit sales dashboard built in Excel to analyze $1M+ revenue, o
 
 # 📊 Blinkit Sales Dashboard Analysis
 
-## 🔍 Overview
+##  Overview
 
 This project presents a comprehensive sales dashboard inspired by Blinkit (India's last-minute delivery app). The goal was to transform raw retail data into meaningful insights that help understand sales performance, customer behavior, and outlet efficiency.
 
@@ -11,7 +11,7 @@ The dashboard highlights key metrics such as total sales, average sales, number 
 
 ---
 
-## 🎯 Key Objectives
+##  Key Objectives
 
 * Analyze overall sales performance and revenue distribution
 * Compare outlet performance across different tiers and sizes
@@ -21,7 +21,7 @@ The dashboard highlights key metrics such as total sales, average sales, number 
 
 ---
 
-## 📈 Dashboard Highlights
+##  Dashboard Highlights
 
 * 💰 **Total Sales:** $1M+ revenue generated
 * 📦 **Total Items Sold:** 8,523 items
@@ -30,7 +30,7 @@ The dashboard highlights key metrics such as total sales, average sales, number 
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 * Supermarket Type 1 contributes the highest share of total sales (~$787K)
 * Tier 3 locations generate the most revenue compared to Tier 1 and Tier 2
@@ -40,17 +40,18 @@ The dashboard highlights key metrics such as total sales, average sales, number 
 
 ---
 
-## 🛠️ Tools & Skills Used
+##  Tools & Skills Used
 
 * Microsoft Excel
 * Data Cleaning & Transformation
-* Pivot Tables & Charts
+* SQL
+* Power BI
 * Data Visualization
 * Business Insight Generation
 
 ---
 
-## 🚀 Project Value
+##  Project Value
 
 This dashboard demonstrates how raw data can be converted into actionable insights. It can help businesses:
 
@@ -61,11 +62,11 @@ This dashboard demonstrates how raw data can be converted into actionable insigh
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The Blinkit Sales Dashboard is a practical example of using data analytics to solve real-world business problems. It showcases the ability to not just build dashboards, but to extract meaningful insights that drive decisions.
 
----
+
 
 ## 🔗 GitHub Repository
 
