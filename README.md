@@ -68,7 +68,9 @@ The Blinkit Sales Dashboard is a practical example of using data analytics to so
 
 
 
-## 🔗 GitHub Repository
+## 🔗 Project Link
+
+https://app.powerbi.com/links/WTexOX6z6o?ctid=3a20be13-aef0-44c7-be0a-377c208f6a15&pbi_source=linkShare
 
 
-Feel free to explore, fork, or contribute to the project!
+
