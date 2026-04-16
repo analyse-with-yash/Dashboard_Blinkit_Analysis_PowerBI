@@ -66,11 +66,14 @@ This dashboard demonstrates how raw data can be converted into actionable insigh
 
 The Blinkit Sales Dashboard is a practical example of using data analytics to solve real-world business problems. It showcases the ability to not just build dashboards, but to extract meaningful insights that drive decisions.
 
-
-
-## 🔗 Project Link
-
+🔗 Project Link
 https://app.powerbi.com/links/WTexOX6z6o?ctid=3a20be13-aef0-44c7-be0a-377c208f6a15&pbi_source=linkShare
+
+🔗 Linkdiln
+www.linkedin.com/in/yash-panchal-461915250
+
+
+
 
 
 
